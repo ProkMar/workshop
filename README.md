@@ -1,6 +1,9 @@
 ﻿Добавлен комментарий
 Добавлен комментарий
 Добавлен комментарий
+
+Стабильный релиз 0.0.001
+
 ## Шаблон для работы правильного 1С разработчика
 
 [![Join the chat at https://gitter.im/silverbulleters/vanessa-bootstrap](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/silverbulleters/vanessa-bootstrap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
